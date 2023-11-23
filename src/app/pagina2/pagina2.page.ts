@@ -13,7 +13,7 @@ export class Pagina2Page implements OnInit {
   }
 
   goToHome(){
-    this.router.navigate(['/home']);
+    this.router.navigate(['/paginaprin']);
   }
 
 }

@@ -1,0 +1,94 @@
+.Cuerpo{
+    height: 100%;
+    width: 100%;
+   
+  }
+
+.cabecera {
+    border-radius: 80px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10%;
+    width: 90%;
+    box-shadow: 20%;
+  }
+
+  .NavIz {
+    height: 100%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
+  .NavDer {
+    height: 100%;
+   width: 90%;
+   background-color: red;
+  }
+
+  .DerArb {
+    height: 60%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .Actualizacion {
+    height: 5%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ActIz {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ActDer {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    font-size:x-small;
+    color: #000000;
+  }
+
+  .INFODATOS{
+    height: 35%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px; 
+  }
+
+  .LogoInter{
+    height: 70%;
+    width: 90%;
+    display: flex;
+    margin-top: 12%;
+  }
+
+  .Boton{
+    align-items: center;
+    justify-content: center;
+
+  }
+  
+  .Num{
+    width: 90%;
+  }
+
+  .Otros{
+    width: 90%;
+  }
+  
+  
